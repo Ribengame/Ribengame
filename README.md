@@ -7,5 +7,5 @@
 - 📫 How to reach me: ribengame2@gmail.com
 ---
 # I collaborate in:
-- (https://github.com/Ribengame/ClamAVBot)[ClamAVBot]
-- [https://github.com/filar-community/filar-bot](Non official FILAR project github)
+- [ClamAVBot](https://github.com/Ribengame/ClamAVBot)
+- [Not official FILAR github](https://github.com/filar-community)
